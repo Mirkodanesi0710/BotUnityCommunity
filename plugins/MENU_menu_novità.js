@@ -57,7 +57,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 └───────⭓
 
 ┌──⭓ *MENU 'FABRI'*
-|- fabri funziona senza uso
+|- Mirko funziona senza uso
 |  di prefisso.
 |  per attivarlo:
 |➤  ON: sveglia fabri 
@@ -88,7 +88,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 └───────⭓
 
 𝐕𝐄𝐋𝐎𝐂𝐈𝐓𝐀': ${speed} 𝐬𝐞𝐜𝐨𝐧𝐝𝐢
-✦✧✧𝓜𝓸𝓸𝓷 𝓑𝓸𝓽✧✧✦
+✦✧✧Unity 𝓑𝓸𝓽✧✧✦
 `.trim();
   conn.reply(m.chat, text, prova, m, false );
 };
