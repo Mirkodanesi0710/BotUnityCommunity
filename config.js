@@ -8,19 +8,16 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
-  ['393518398856', 'nobody|'],
-  ['393755775755', 'nobody|'],
-  ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
+  ['393201391411', 'mirko|'],
+  ['40790115929', 'GiuGiu|'],
 ]
 global.suittag = ['390371717717'] 
 global.prems = ['390371717717'] 
 global.reportes_solicitudes = ['390371717717']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ცơɬῳɧąıɬą★'
-global.wm = '★ცơɬῳɧąıɬą ★'
+global.author = 'UnityBot'
+global.wm = '★Unity ★'
 global.vs = '4.0'
 global.igfg = '★ცơɬῳɧąıɬą★'
 global.wait = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
